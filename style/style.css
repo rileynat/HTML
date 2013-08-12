@@ -1,0 +1,61 @@
+body {
+	background-color: #CFCFCF;
+	background-image: url( 585031-bluebird.gif );
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position:50% 25%;
+	
+	background:#CFCFCF url(585031-bluebird.gif) no-repeat fixed 50% 25%;
+}
+
+h1 {
+	color: #ff0000;
+	font: italic small-caps bold 30px arial, sans-sarif;
+}
+
+h2 {
+	color: #0f6db4;
+	text-decoration: overline;
+	letter-spacing: 3px;
+}
+
+h3 {
+	text-align: center;
+	text-transform: capitalize;
+}
+
+h4 {
+	text-indent: 30px;
+	
+}
+
+a:link {
+	color: blue;
+}
+
+a:visited {
+	color:green;
+}
+
+a:hover {
+	color: black;
+	font-style: italic;
+	letter-spacing: 10px;
+	text-decoration: none;
+}
+
+p.first_lorem {
+	font: 8px Georgia, serif;
+}
+
+#first_header {
+	color: green;
+}
+
+span.benefit {
+	text-decoration: underline;
+}
+
+#franklin_poem {
+	color: yellow;
+}
