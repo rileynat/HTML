@@ -6,17 +6,32 @@ body {
 	background-position:50% 25%;
 	
 	background:#CFCFCF url(585031-bluebird.gif) no-repeat fixed 50% 25%;
+
+	margin: 10% 40% 30% 20%;
+		
+	margin-top: 100px;
+	margin-right: 70px;
+	margin-bottom: 50px;
+	margin-left: 70px;
+	
+	margin: 100px 70px 50px 70px;
 }
 
 h1 {
 	color: #ff0000;
 	font: italic small-caps bold 30px arial, sans-sarif;
+	background-color: #0f6db4;
+	padding: 20px 20px 20px 30px; 
+	border: 3px groove yellow;
 }
 
 h2 {
 	color: #0f6db4;
 	text-decoration: overline;
 	letter-spacing: 3px;
+	background-color: #ff0000;
+	padding-left: 10%
+	 
 }
 
 h3 {
@@ -52,10 +67,16 @@ p.first_lorem {
 	color: green;
 }
 
+#bill_gates_picture {
+	float: left;
+	padding-bottom: 50px;
+}
+
 span.benefit {
 	text-decoration: underline;
 }
 
 #franklin_poem {
 	color: yellow;
+	clear:both;
 }
